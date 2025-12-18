@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2006muskan
-- 👀 B.tech in ECE branch and passinate about VLSI , hands on lab C++,C,Python.
+- 👀 B.tech in ECE branch and passionate about VLSI , hands on lab C++,C,Python.
 - 🌱 I’m currently learning DSA and Verilog language .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
